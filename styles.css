@@ -1,0 +1,50 @@
+.animal-image {
+    width: 300px;
+    margin-bottom: 15px;
+
+}
+#title{
+    font-family: 'Permanent Marker', cursive;
+}
+.card{
+    width:300px;
+    border:300px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    border-style: solid;
+    border-width: thin;
+    border-color:rgb(185, 177, 177);
+    box-shadow: 5px 10px #dad5d5;
+    background-color: bisque;
+}
+
+.italic{
+    font-style: italic;
+    text-align: justify;
+}
+.text{
+    text-align: justify;
+}
+/*.description{
+    font-weight: bold;
+}*/
+
+.list{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+
+.list li span {
+    font-weight: bold; 
+}
+
+.boxborder{
+    padding-left:15px;
+    padding-right:15px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(194, 188, 188);;
+    
+}
